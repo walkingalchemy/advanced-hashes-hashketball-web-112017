@@ -210,4 +210,3 @@ def big_shoe_rebounds
   end
   biggest[:score]
 end
-          
